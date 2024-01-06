@@ -40,3 +40,4 @@ These outputs offer insights into the general sentiment of users towards the Tik
 
 ## Note
 Ensure you have the dataset (`tiktok_google_play_reviews.csv`) in the correct path to run the script.
+The dataset can be found here: https://www.kaggle.com/datasets/shivkumarganesh/tiktok-google-play-store-review?resource=download
